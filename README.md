@@ -1,2 +1,2 @@
 # triton-puzzles
-My solution of the triton-puzzles
+My solution of https://github.com/srush/Triton-Puzzles/
